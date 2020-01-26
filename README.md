@@ -1,2 +1,3 @@
 # Parallel-Game-Of-Life
-A game of life that uses threads to divide the workload of calculations in each generation.
+Operating systems course HW
+A game of life that uses threads to divide the workload of calculations in each generation. 
